@@ -17,7 +17,7 @@ I am a developer focused on shifting from simple scripts to scalable software ar
 ---
 
 ### 📊 GitHub Stats
-![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu-Ai-Dev&show_icons=true&theme=radical)
 
 <!--
 **Vishnu-Ai-Dev/Vishnu-Ai-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
