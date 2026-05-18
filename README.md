@@ -1,4 +1,4 @@
-# Hi, I'm Vishnu 👋
+# Hi, I'm Vishnu 👋👋
 
 🎓 First year CSE Student | ML/AI Enthusiast | Building for Japan 2029
 
