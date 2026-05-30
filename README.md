@@ -17,5 +17,6 @@
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/vishnu-ravi-dev?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - Email: vishnuravi226@gmail.com
+- Dev.to: https://dev.to/dev-rv
 
 🎯 Open to internships and collaborative projects in ML/AI
