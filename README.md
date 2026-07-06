@@ -72,3 +72,16 @@ Instead of treating ML models as black boxes, I am obsessed with understanding t
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-Ai-Dev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
+
+---
+
+## Contribution Graph 🐍
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishnu-Ai-Dev/Vishnu-Ai-Dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishnu-Ai-Dev/Vishnu-Ai-Dev/output/github-contribution-grid-snake.svg">
+    <img alt="Vishnu's GitHub Contribution Snake" src="https://raw.githubusercontent.com/Vishnu-Ai-Dev/Vishnu-Ai-Dev/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
