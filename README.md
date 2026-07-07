@@ -70,7 +70,7 @@ Instead of treating ML models as black boxes, I am obsessed with understanding t
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Vishnu-Ai-Dev&show_icons=true&theme=tokyonight" alt="Vishnu's GitHub stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-Ai-Dev&theme=tokyonight" alt="Vishnu's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Vishnu-Ai-Dev&theme=tokyonight" alt="Vishnu's GitHub Streak" />
   <br><br>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vishnu-Ai-Dev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
