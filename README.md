@@ -21,7 +21,7 @@
 
 ## About Me 🚀
 
-I am a first-year B.Tech Computer Science and Engineering student at Dr. M.G.R. Educational and Research Institute with a deep passion for Artificial Intelligence and Machine Learning. I am actively working toward my long-term goal of relocating to Japan by 2029 to pursue a Master's degree in AI and Machine Learning research at top institutions like NAIST, Tohoku, or UTokyo. 
+I am a first-year B.Tech Computer Science and Engineering student at Dr. M.G.R. Educational and Research Institute with a deep passion for Artificial Intelligence and Machine Learning. I am actively working toward my long-term goal of relocating to Japan by 2029 to pursue a Master's degree in AI and Machine Learning research at top institutions.
 
 Instead of treating ML models as black boxes, I am obsessed with understanding the core mathematics and mechanics happening under the hood. I am currently documenting my machine learning journey, research, and projects on dev.to.
 
