@@ -59,7 +59,7 @@ Instead of treating ML models as black boxes, I am obsessed with understanding t
 *   **🏥 Medical Insurance Cost Predictor**
     *   Developed a machine learning model utilizing core Python data science libraries to predict medical insurance costs based on patient data, achieving a 78% accuracy rate.
 *   **🏘️ Chennai Real Estate Land Cost Predictor**
-    *   Custom-built a prediction model tailored for analyzing, understanding, and estimating land costs specific to the Chennai real estate market.
+    *   Custom built a prediction model tailored for analyzing, understanding, and estimating land costs specific to the Chennai real estate market.
 
 ---
 
