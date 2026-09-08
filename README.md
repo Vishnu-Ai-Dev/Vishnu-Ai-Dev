@@ -27,7 +27,7 @@ Instead of treating ML models as black boxes, I am obsessed with understanding t
 
 *   🔭 **Current Focus:** Building scalable auth systems and diving deep into the core math behind ML algorithms.
 *   🌱 **Currently Learning:** Advanced Python, AI/ML fundamentals, and Software Engineering principles.
-*   🤝 **Open To:** Software Engineering Internships and Research Collaborations in AI/ML.
+*   🤝 **Open To:** Software Engineering Internships and Research Collaborations in AI/ML!.
 
 ---
 
