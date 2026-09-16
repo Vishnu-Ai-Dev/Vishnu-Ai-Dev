@@ -2,7 +2,7 @@
   
 # Hi there, I'm Vishnu R. 👋
 
-### AI & Machine Learning Enthusiast | First-Year B.Tech CSE Student
+### AI & Machine Learning Enthusiast | Second-Year B.Tech CSE Student
 
 <p>
   <img src="https://img.shields.io/badge/B.Tech%20CSE-Dr.%20M.G.R.%20Educational%20and%20Research%20Institute-blue" alt="College" />
