@@ -25,7 +25,7 @@ I am a second-year B.Tech Computer Science and Engineering student at Dr. M.G.R.
 
 Instead of treating ML models as black boxes, I am obsessed with understanding the core mathematics and mechanics happening under the hood. I am currently documenting my machine learning journey, research, and projects on dev.to.
 
-*   🔭 **Current Focus:** Building scalable auth systems and diving deep into the core math behind ML algorithms.
+*   🔭 **Current Focus:** Building scalable auth systems and diving deep into the core math behind ML algorithms and stuffs.
 *   🌱 **Currently Learning:** Advanced Python, AI/ML fundamentals, and Software Engineering principles.
 *   🤝 **Open To:** Software Engineering Internships and Research Collaborations in AI/ML!.
 
