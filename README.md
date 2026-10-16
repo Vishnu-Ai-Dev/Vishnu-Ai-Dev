@@ -24,7 +24,7 @@
 
 Second-year undergraduate researcher in Computer Science and Engineering with a focus on **Natural Language Processing (NLP)**, **Statistical Machine Learning**, and **First-Principles Algorithm Implementation**. 
 
-Rather than treating machine learning frameworks as black boxes, my work focuses on deconstructing the underlying linear algebra, multivariable calculus, and optimization mechanics by building core algorithms from scratch before scaling them with modern deep learning frameworks. I am actively preparing for graduate-level research (Master's in Information Science / NLP) in Japan by 2029.
+Rather than treating machine learning frameworks as black boxes, my work focuses on deconstructing the underlying linear algebra, multivariable calculus, and optimization mechanics by building core algorithms from scratch before scaling them with modern deep learning frameworks. I am actively preparing for graduate level research (Master's in Information Science / NLP) in Japan by 2029.
 
 * **Research Interests:** Natural Language Processing (LLMs, RAG Architectures, Multilingual Tokenization), Predictive Modeling, and Numerical Optimization.
 * **Engineering Philosophy:** First-principles mathematical derivations using pure `NumPy` prior to high-level abstraction.
