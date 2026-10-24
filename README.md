@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vishnu R. (R. Vishnu)
+# Vishnu R.
 ### AI & NLP Research Aspirant | B.Tech Computer Science & Engineering
 **自然言語処理（NLP）および機械学習アルゴリズムの研究・実装**
 
